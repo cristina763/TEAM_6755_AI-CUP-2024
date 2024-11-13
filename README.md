@@ -1,4 +1,5 @@
 **Python版本為3.10**  
+____
 至Preprocess file  
 1.執行ckitagger_data.py  
 2.執行tesseract-ocr-w64-setup-v5.3.0.20221214.exe，並將chi_tra.traineddata語言資料包加進C:\Program Files\Tesseract-OCR\tessdata\  
