@@ -12,15 +12,15 @@ cd至{path}\TEAM_6755_AI-CUP-2024-main底下並install package
 pip install -r requirements.txt
 ```
 
-argparse:用於解析命令列參數  
-tqdm:用於顯示執行進度  
-pdfplumber:用於處理和提取 PDF 文檔內容  
-pytesseract:使用 OCR（光學字符識別）從圖片中提取文本。當 PDF 頁面沒有文本時，將頁面轉為圖片並使用 pytesseract 來識別圖片中的文字  
-Pillow:用於處理和操作圖像  
-rank_bm25:用於文本檢索  
-ckiptagger:用於中文分詞  
-tensorflow==2.11.0:ckiptagger 依賴 TensorFlow  
-numpy==1.21.6:供 TensorFlow 等package使用  
+**argparse**:用於解析命令列參數  
+**tqdm**:用於顯示執行進度  
+**pdfplumber**:用於處理和提取 PDF 文檔內容  
+**pytesseract**:使用 OCR（光學字符識別）從圖片中提取文本。當 PDF 頁面沒有文本時，將頁面轉為圖片並使用 pytesseract 來識別圖片中的文字  
+**Pillow**:用於處理和操作圖像  
+**rank_bm25**:用於文本檢索  
+**ckiptagger**:用於中文分詞  
+**tensorflow==2.11.0**:ckiptagger 依賴 TensorFlow  
+**numpy==1.21.6**:供 TensorFlow 等package使用  
 ____
 cd至{path}\TEAM_6755_AI-CUP-2024-main\\(Retrieval) Model\  
 執行指令  
