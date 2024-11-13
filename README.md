@@ -15,7 +15,7 @@ pip install -r requirements.txt
 **Pillow**:用於處理和操作圖像  
 **rank_bm25**:用於文本檢索  
 **ckiptagger**:用於中文分詞  
-**gdown**:從Google Drive下載檔案
+**gdown**:從Google Drive下載檔案  
 **tensorflow==2.11.0**:ckiptagger 依賴 TensorFlow  
 **numpy==1.21.6**:供 TensorFlow 等package使用  
 
