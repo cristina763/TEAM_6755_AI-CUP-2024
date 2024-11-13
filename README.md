@@ -8,6 +8,7 @@ preprocess file中的ckiptagger分詞與提取pdf圖片文字的OCR都安裝完�
 cd至{path}\TEAM_6755_AI-CUP-2024-main底下並install package  
 指令:  
 pip install -r requirements.txt  
+
 argparse:用於解析命令列參數  
 tqdm:用於顯示執行進度  
 pdfplumber:用於處理和提取 PDF 文檔內容  
