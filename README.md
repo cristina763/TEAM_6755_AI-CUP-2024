@@ -7,7 +7,7 @@ ____
 3. 到PATH添加環境變數C:\Program Files\Tesseract-OCR 和 C:\Program Files\Tesseract-OCR\tessdata
 ____
 preprocess file中的ckiptagger分詞與提取pdf圖片文字的OCR都安裝完畢且添加完環境變數之後  
-cd至{path}\TEAM_6755_AI-CUP-2024-main底下並install package  
+cd至 *{path}\TEAM_6755_AI-CUP-2024-main底下並install package*  
 
 執行指令  
 ```
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 **tensorflow==2.11.0**:ckiptagger 依賴 TensorFlow  
 **numpy==1.21.6**:供 TensorFlow 等package使用  
 ____
-cd至{path}\TEAM_6755_AI-CUP-2024-main\\(Retrieval) Model\  
+cd至 *{path}\TEAM_6755_AI-CUP-2024-main\\(Retrieval) Model\*  
 
 執行指令  
 ```
