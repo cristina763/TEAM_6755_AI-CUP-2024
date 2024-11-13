@@ -10,7 +10,7 @@ from ckiptagger import WS
 import re
 
 # 初始化 CkipTagger 的 WS（Word Segmentation）模組
-ws = WS("./data")  # 載入剛下載的模型
+ws = WS("../Preprocess/data")  # 載入剛下載的模型
 
 def convert_to_western_year(text):
     """
