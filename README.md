@@ -8,7 +8,8 @@ ____
 ____
 preprocess file中的ckiptagger分詞與提取pdf圖片文字的OCR都安裝完畢且添加完環境變數之後  
 cd至{path}\TEAM_6755_AI-CUP-2024-main底下並install package  
-指令:  
+
+執行指令  
 ```
 pip install -r requirements.txt
 ```
