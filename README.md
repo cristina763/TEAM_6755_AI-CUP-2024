@@ -21,8 +21,8 @@ pip install -r requirements.txt
 
 ## Preprocess file  
 1. cd至 *{path}\TEAM_6755_AI-CUP-2024-main\Preprocess* 執行ckitagger_data.py  
-2. 執行tesseract-ocr-w64-setup-v5.3.0.20221214.exe，並將chi_tra.traineddata語言資料包加進 {path}\Tesseract-OCR\tessdata\  
-3. 到PATH添加環境變數 {path}\Tesseract-OCR 和 {path}\Tesseract-OCR\tessdata
+2. 執行tesseract-ocr-w64-setup-v5.3.0.20221214.exe，並將chi_tra.traineddata語言資料包加進 *{path}\Tesseract-OCR\tessdata\\*  
+3. 到PATH添加環境變數 *{path}\Tesseract-OCR* 和 *{path}\Tesseract-OCR\tessdata*
 ____
 preprocess file中的ckiptagger分詞與提取pdf圖片文字的OCR都安裝完畢且添加完環境變數之後  
 cd至 *{path}\TEAM_6755_AI-CUP-2024-main\\(Retrieval) Model\\*  
