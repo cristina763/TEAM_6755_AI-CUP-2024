@@ -1,1 +1,2 @@
-preprocess file中的ckiptagger分詞與提取pdf圖片文字的OCR都安裝完畢且添加完環境變數之後  執行retrieve.py
+preprocess file中的ckiptagger分詞與提取pdf圖片文字的OCR都安裝完畢且添加完環境變數之後  
+執行retrieve.py
