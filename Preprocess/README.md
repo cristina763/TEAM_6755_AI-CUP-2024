@@ -4,5 +4,5 @@
 
 ## 檔案用途  
 **ckitagger**:分詞  
-**Tesseract-OCR**:提取pdf中圖片之文字
+**Tesseract-OCR**:提取pdf中圖片之文字  
 **chi_tra.traineddata**:支持提取繁體中文的文字內容
