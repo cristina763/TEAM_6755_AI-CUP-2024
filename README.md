@@ -24,6 +24,7 @@ pip install -r requirements.txt
 **numpy==1.21.6**:供 TensorFlow 等package使用  
 ____
 cd至{path}\TEAM_6755_AI-CUP-2024-main\\(Retrieval) Model\  
+
 執行指令  
 ```
 python retrieve.py --question_path {path}/競賽資料集/dataset/preliminary/questions_preliminary.json --source_path {path}/競賽資料集/reference --output_path {path}/競賽資料集/dataset/preliminary/pred_retrieve.json
