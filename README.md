@@ -7,7 +7,7 @@
 - **參賽隊伍：** TEAM 6755
 - **初賽排名：** 36/218 (獲前標獎項)
 - **任務類型：** 金融文件檢索（Retrieval）
-- **相關連結：** [AI CUP 2024]([https://www.aicup.tw/ai-cup-2024-competition](https://www.esunfhc.com/zh-tw/news-center/news-center/news/detail?id=A44CD7AE333048ABAA31A09981B72EDF&p=99812C02BA704D578203AF374D8DB2E5))
+- **相關連結：** [AI CUP 2024]([https://www.esunfhc.com/zh-tw/news-center/news-center/news/detail?id=A44CD7AE333048ABAA31A09981B72EDF&p=99812C02BA704D578203AF374D8DB2E5])
 
 競賽要求從主辦方提供的金融、保險與 FAQ 語料中，找出最能回答問題的來源文件，本專案聚焦 Retrieval 階段：將不同格式的 PDF 與文字資料轉換成可搜尋語料，計算問題與候選文件的相關性，最後輸出競賽指定的文件編號。
 
